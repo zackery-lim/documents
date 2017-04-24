@@ -9,4 +9,4 @@
 
 ## Links:
 
-- ['17년 상반기 팀 캔미팅: Agenda & SKMS Summary](https://www.syruppay.co.kr/)
+- ['17년 상반기 팀 캔미팅: Agenda & SKMS Summary](https://github.com/zackery-lim/documents/blob/master/SK%20planet/17.1H%20Can%20Meeting.md)
