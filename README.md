@@ -1,5 +1,5 @@
-<a href="https://www.syruppay.co.kr">
-  <img src="https://img.syruppay.co.kr/images/v2/main/logo.png" alt="Syrup pay logo" title="Zackery's Home" align="right" />
+<a href="https://www.11pay.co.kr">
+  <img src="https://www.11pay.co.kr/images/v2/main/logo_11pay.png" alt="11Pay pay logo" title="Zackery's Home" align="right" />
 </a>
 <br/><br/>
 
